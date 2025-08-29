@@ -203,7 +203,7 @@ void modoHd() {
 Desarrollador principal del proyecto. Unificador de ideas. Lo que imagina se lleva a cabo. Sueña en lenguajes de programación.
 
 2- Allays (investigación): Camila "Mille" Parada
-Investigadora de códigos. Analista de viabilidad y riesgos.
+Investigadora de códigos. Analista de viabilidad y riesgos de circuito. Coleccionista de micro controladores. 
 
 3- El Notch (Big boss): Santiago "Clifford".
 
@@ -219,8 +219,35 @@ El video debe estar subido a youtube y mencionado en un enlace para ahorrar espa
 
 Citas en APA de repositorios y enlaces de los cuales se inspiraron. Bibliotecas, tutoriales, etc.
 
-1-Repositorios
+1- Consulta de información
 
-Videos
+- Arduino cc (2012, September 12). counting button presses. Arduino Forum. https://forum.arduino.cc/t/counting-button-presses/119881/4‌
+- Arduino docs (2024). #define .Arduino.cc. https://docs.arduino.cc/language-reference/en/structure/further-syntax/define/
+- Arduino docs (2024). string, Arduino.cc. https://docs.arduino.cc/language-reference/en/variables/data-types/string/
+- Arduino docs (2024). Serial.begin(). Arduino.cc. https://docs.arduino.cc/language-reference/en/functions/communication/Serial/begin/
+- Arduino docs (2025). % (remainder). Arduino.cc. https://docs.arduino.cc/language-reference/en/structure/arithmetic-operators/remainder
+- Arduino docs (2025). constrain(). Arduino.cc. https://docs.arduino.cc/language-reference/en/functions/math/constrain
+- W3schools (n.d.). C++ Loop Through an Array. Www.w3schools.com. https://www.w3schools.com/cpp/cpp_arrays_loop.asp
+- 
+‌
+2- Videos
 
-Otras páginas
+- The Coding Train (2025). 7.2: Arrays and Loops - p5.js Tutorial. Youtu.be. https://youtu.be/RXWO3mFuW-I?si=1Iiri9lDNYRLTjQS
+- 
+
+3- Inspiración
+
+- Wokwi ESP32, STM32, Arduino Simulator. (2019). arduino_oled_animation__upir. Wokwi.com. https://wokwi.com/projects/374294166215201793
+- 
+
+4- Recursos
+
+- Adafruit. (2020, January 11). adafruit/Adafruit_SSD1306. GitHub. https://github.com/adafruit/Adafruit_SSD1306
+- Adafruit. (2021, October 14). Adafruit GFX Library. GitHub. https://github.com/adafruit/Adafruit-GFX-Library
+- Arduino docs (2024). Wire. Arduino.cc. https://docs.arduino.cc/language-reference/en/functions/communication/wire/
+- Clifford1one. (2025). voluntadGuiada/code/interact.js. GitHub. https://github.com/clifford1one/voluntadGuiada/blob/main/code/interact.js
+- image2cpp. (n.d.). Javl.github.io. https://javl.github.io/image2cpp/
+
+‌
+
+‌
