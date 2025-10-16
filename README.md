@@ -1,12 +1,19 @@
 A partir de esta definición es que como equipo comenzamos a ahondar en el sentido conceptual de lo que es un saludo, ya no como una actividad humana sino como una interacción que se puede emitir con otros “sujetos”, como por ejemplo una inteligencia artificial. 
-Ello a modo de crear una experiencia enfocada en la exploración de la interacción de un “saludo” con un paisaje. ¿Podemos saludar a un lugar? Si, el libre albedrío nos permite hacer lo que queramos. ¿Recibiremos respuesta de ello? Probablemente no, dado que se tratan de objetos u espacios inanimados, por lo que solo podemos apreciar y contemplar lo que nos ofrecen estos mismos. 
+Ello a modo de crear una experiencia enfocada en la exploración de la interacción de un “saludo” con un sitio. 
 
+- ¿Podemos saludar a un lugar? 
+
+- Si, el libre albedrío nos permite hacer lo que queramos. 
+
+- ¿Recibiremos respuesta de ello? 
+
+- Probablemente no, dado que se tratan de objetos u espacios inanimados, por lo que solo podemos apreciar y contemplar lo que nos ofrecen estos mismos. 
 
 Por otra parte, vale aclarar que al comienzo del trabajo no hubo una idea clara sobre qué dispositivo desarrollar. Por ello se creó una propuesta colectiva a partir de las tareas efectuadas en la clase "06b", tomando la decisión de crear un mecanismo que posea ojos y que siga con la "mirada" al usuario a través de un sensor de presencia que detecte su posición en el espacio. Al identificar que la persona se encuentra a cierta distancia, una de las partes de la máquina comienza a emitir sonido de forma aleatoria, sin un orden establecido.
 
 ¿Por qué hacer que se reproduzca un sonido [aleatorio](https://es.wikipedia.org/wiki/Azar#:~:text=El%20azar%20es%20una%20casualidad,Azar%20en%20matem%C3%A1ticas)?
 Pues el hecho que el usuario no poder predecir o saber que “esperar” de esta máquina genera un factor "sorpresa", puesto que depende del artefacto el elegir qué sonidos va a transmitir.
-
++
 ***
 
 ## Presentación textual de la propuesta
