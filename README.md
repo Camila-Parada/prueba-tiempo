@@ -1,25 +1,6 @@
-# ⋆⭒˚.⋆ └[∵┌] - Máquina de saludo - Nombre del Proyecto - [┐∵]┘ ⋆.˚⭒⋆
+A partir de esta definición es que como equipo comenzamos a ahondar en el sentido conceptual de lo que es un saludo, ya no como una actividad humana sino como una interacción que se puede emitir con otros “sujetos”, como por ejemplo una inteligencia artificial. 
+Ello a modo de crear una experiencia enfocada en la exploración de la interacción de un “saludo” con un paisaje. ¿Podemos saludar a un lugar? Si, el libre albedrío nos permite hacer lo que queramos. ¿Recibiremos respuesta de ello? Probablemente no, dado que se tratan de objetos u espacios inanimados, por lo que solo podemos apreciar y contemplar lo que nos ofrecen estos mismos. 
 
-Viernes 17 Octubre 2025
-
-***
-
-## Grupo-04 "nombre del grupo" : Integrantes
-
-- [Braulio Figueroa Vega](https://github.com/brauliofigueroa2001) (Código MP3, investigación)
-- [Bernardita Lobo Baeza](https://github.com/Bernardita-lobo) (Modelado carcasa, investigación)
-- [Jose Morales Berríos](https://github.com/jotamorales-romulus) (Código MP3, modelado carcasa)
-- [Camila Parada Vasquez](https://github.com/Camila-Parada) (Código servo, investigación, registro visual, modelado mecanismo ocular)
-- [Francisco Stephens González](https://github.com/FranUDP) (Código ultrasónico, Optimización de código)
-
-***
-
-## Introducción
-
-Este proyecto se centra en desarrollar una "caja negra" que pueda "saludar".
-El saludo de define como ["Un acto comunicacional (entre humanos), en el que una persona hace notar a otra su presencia" - Wikipedia](https://es.wikipedia.org/wiki/Saludo). 
-
-A partir de esta definición es que como equipo comenzamos a ahondar en el sentido conceptual de lo que es un saludo, ya no como una actividad humana sino como una interacción que se puede emitir con objetos como por ejemplo una inteligencia artificial. Ello a modo de generar una experiencia más exploratoria.
 
 Por otra parte, vale aclarar que al comienzo del trabajo no hubo una idea clara sobre qué dispositivo desarrollar. Por ello se creó una propuesta colectiva a partir de las tareas efectuadas en la clase "06b", tomando la decisión de crear un mecanismo que posea ojos y que siga con la "mirada" al usuario a través de un sensor de presencia que detecte su posición en el espacio. Al identificar que la persona se encuentra a cierta distancia, una de las partes de la máquina comienza a emitir sonido de forma aleatoria, sin un orden establecido.
 
@@ -182,7 +163,7 @@ Texto texto texto
 
 ## Comentarios finales
 
-Este ejercicio nos dejó replanteando sobre "qué es en realidad un saludo". Si por el hecho de tener a un ser humano como el usuario "iniciador de esta actividad" es que se pueden generar interacciones con objetos o hasta lugares. Es un acto temporal pero que puede persistir en la memoria de quienes, por ejemplo, conocen o se vuelven a encontrar con lugares tales como el mar. ¿Podemos saludar a un lugar? Si, el libre alvedrío nos permite hacer lo que querramos. ¿Recibiremos respuesta de ello? Probablemente no, dado que se tratan de objetos u espacios inanimados, por lo que solo podemos apreciar y contemplar lo que nos ofrecen estos mismos.
+Este ejercicio nos dejó replanteando sobre "qué es en realidad un saludo". Si por el hecho de tener a un ser humano como el usuario "iniciador de esta actividad" es que se pueden generar interacciones con objetos o hasta lugares. Es un acto temporal pero que puede persistir en la memoria de quienes, por ejemplo, conocen o se vuelven a encontrar con lugares tales como el mar. 
 
 ***
 
@@ -200,11 +181,3 @@ Este ejercicio nos dejó replanteando sobre "qué es en realidad un saludo". Si 
 - <https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299>
 - <https://felixblume.com/valparaiso/>
 - <https://audiomapa.org/>
-
-
-
-
-
-
-
-
