@@ -1,4 +1,30 @@
-A partir de esta definición es que como equipo comenzamos a ahondar en el sentido conceptual de lo que es un saludo, ya no como una actividad humana sino como una interacción que se puede emitir con otros “sujetos”, como por ejemplo una inteligencia artificial. 
+# ⋆⭒˚.⋆ └[∵┌] - Máquina de saludo - Nombre del Proyecto - [┐∵]┘ ⋆.˚⭒⋆
+
+Viernes 17 Octubre 2025
+
+***
+
+## Grupo-04 "nombre del grupo" - Integrantes
+
+- [Braulio Figueroa Vega](https://github.com/brauliofigueroa2001) (Código MP3, investigación)
+- [Bernardita Lobo Baeza](https://github.com/Bernardita-lobo) (Modelado carcasa, investigación)
+- [José Morales Berríos](https://github.com/jotamorales-romulus) (Código MP3, modelado carcasa, post producción)
+- [Camila Parada Vasquez](https://github.com/Camila-Parada) (Código servo, investigación)
+- [Francisco Stephens González](https://github.com/FranUDP) (Código ultrasónico, Optimización de código, modelado)
+
+***
+
+## Introducción
+
+Este proyecto se centra en desarrollar una "caja negra" que pueda "saludar".
+El saludo de define como ["Un acto comunicacional (entre humanos), en el que una persona hace notar a otra su presencia" - Wikipedia](https://es.wikipedia.org/wiki/Saludo). 
+
+A partir de esta definición es que como equipo comenzamos a ahondar en el sentido conceptual de lo que es un saludo, ya no como una actividad humana sino como una interacción que se puede emitir con otros “sujetos” u objetos, como por ejemplo una inteligencia artificial. 
+
+Ello a modo de crear una experiencia enfocada en la exploración de la interacción de un “saludo” con un paisaje. ¿Podemos saludar a un lugar? Si, el libre albedrío nos permite hacer lo que queramos. ¿Recibiremos respuesta de ello? Probablemente no, dado que se tratan de objetos u espacios inanimados, por lo que solo podemos apreciar y contemplar lo que nos ofrecen estos mismos. 
+
+
+A partir de esta definición es que como equipo comenzamos a ahondar en el sentido conceptual de lo que es un saludo, ya no como una actividad humana sino como una interacción que se puede emitir con otros “sujetos” u objetos, como por ejemplo una inteligencia artificial. 
 Ello a modo de crear una experiencia enfocada en la exploración de la interacción de un “saludo” con un sitio. 
 
 ─ ¿Podemos saludar a un lugar? 
