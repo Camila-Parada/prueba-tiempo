@@ -19,12 +19,7 @@ Viernes 17 Octubre 2025
 Este proyecto se centra en desarrollar una "caja negra" que pueda "saludar".
 El saludo de define como ["Un acto comunicacional (entre humanos), en el que una persona hace notar a otra su presencia" - Wikipedia](https://es.wikipedia.org/wiki/Saludo). 
 
-A partir de esta definición es que como equipo comenzamos a ahondar en el sentido conceptual de lo que es un saludo, ya no como una actividad humana sino como una interacción que se puede emitir con otros “sujetos” u objetos, como por ejemplo una inteligencia artificial. 
-
-Ello a modo de crear una experiencia enfocada en la exploración de la interacción de un “saludo” con un paisaje. ¿Podemos saludar a un lugar? Si, el libre albedrío nos permite hacer lo que queramos. ¿Recibiremos respuesta de ello? Probablemente no, dado que se tratan de objetos u espacios inanimados, por lo que solo podemos apreciar y contemplar lo que nos ofrecen estos mismos. 
-
-
-A partir de esta definición es que como equipo comenzamos a ahondar en el sentido conceptual de lo que es un saludo, ya no como una actividad humana sino como una interacción que se puede emitir con otros “sujetos” u objetos, como por ejemplo una inteligencia artificial. 
+A partir de esta definición es que como equipo comenzamos a ahondar en el sentido conceptual de lo que es un saludo, ya no como una actividad humana sino como una interacción que se puede emitir con otros “sujetos” u "objetos", como por ejemplo una inteligencia artificial. 
 Ello a modo de crear una experiencia enfocada en la exploración de la interacción de un “saludo” con un sitio. 
 
 ─ ¿Podemos saludar a un lugar? 
@@ -35,11 +30,11 @@ Si, el libre albedrío nos permite hacer lo que queramos.
 
 Probablemente no, dado que se tratan de objetos u espacios inanimados, por lo que solo podemos apreciar y contemplar lo que nos ofrecen estos mismos. 
 
-Por otra parte, vale aclarar que al comienzo del trabajo no hubo una idea clara sobre qué dispositivo desarrollar. Por ello se creó una propuesta colectiva a partir de las tareas efectuadas en la clase "06b", tomando la decisión de crear un mecanismo que posea ojos y que siga con la "mirada" al usuario a través de un sensor de presencia que detecte su posición en el espacio. Al identificar que la persona se encuentra a cierta distancia, una de las partes de la máquina comienza a emitir sonido de forma aleatoria, sin un orden establecido.
+Como colectivo se creó una propuesta a partir de la fusión de las tareas efectuadas en la clase "06b", escogiendo la decisión de crear un mecanismo que posea "ojos" y que pueda "mirar" al usuario a través de un sensor de presencia. Al identificar que la persona se encuentra a cierta distancia, una de las partes de la máquina comienza a emitir sonido de forma aleatoria, sin un orden establecido.
 
 ¿Por qué hacer que se reproduzca un sonido [aleatorio](https://es.wikipedia.org/wiki/Azar#:~:text=El%20azar%20es%20una%20casualidad,Azar%20en%20matem%C3%A1ticas)?
 Pues el hecho que el usuario no poder predecir o saber que “esperar” de esta máquina genera un factor "sorpresa", puesto que depende del artefacto el elegir qué sonidos va a transmitir.
-+
+
 ***
 
 ## Presentación textual de la propuesta
@@ -47,21 +42,21 @@ Pues el hecho que el usuario no poder predecir o saber que “esperar” de esta
 Nuestra máquina (nombre de la máquina) consiste en un dispositivo funcional que está planeado para ser montado en las paredes y ser utilizado por una persona a la vez.
 Esta trabaja detectando la presencia del usuario a través de un “radar” compuesto por un [“sensor ultrasónico HC-SR04”]( https://www.alldatasheet.com/html-pdf/1132204/ETC2/HCSR04/110/1/HCSR04.html) y un [“servomotor SG90”](https://arduino.cl/producto/micro-servo-motor-sg90-9g/?srsltid=AfmBOopUK1FSSvEOeee794pcjIBccD8B2MQF36GlEjuMTAzqI4rHkSnN) que se encuentra en constante movimiento, rotando continuamente desde 0 a 180 grados.
 
-Cuando se ingresa al rango de “reconocimiento” (compuesto por la rotación del servomotor más la distancia del ultrasónico) los “ojos” de la máquina se mueven a la posición aproximada en la que se encuentra la persona, siguiéndole con la “mirada” a través de un mecanísmo que posee otro motor servo.
+Cuando se ingresa al rango de “reconocimiento” (compuesto por la rotación del servomotor más la distancia del ultrasónico) los “ojos” de la máquina se mueven a través de un mecanísmo que posee otro motor servo.
 
-Cuando el sujeto se acerca a una distancia (x cm) del dispositivo el apéndice, que posee un [“Modulo Reproductor MP3 DFPlayer Mini”](https://afel.cl/products/modulo-reproductor-mp3-dfplayer-mini?_pos=1&_psq=mp3&_ss=e&_v=1.0), comienza a emitir sonidos de forma aleatoria hasta que la persona se aleje lo suficiente como para salir del "rango de sonido".
+Cuando el sujeto se acerca a una distancia (15 cm) del dispositivo, la concha que posee un [“Modulo Reproductor MP3 DFPlayer Mini”](https://afel.cl/products/modulo-reproductor-mp3-dfplayer-mini?_pos=1&_psq=mp3&_ss=e&_v=1.0), comienza a emitir sonidos de forma aleatoria hasta que la persona se aleje lo suficiente como para salir del "rango de sonido".
 
 Los ojos no dejan de funcionar en ningún momento, por lo que persiguen al usuario hasta que salga del rango de reconocimiento.
 
-Por el lado conceptual y figurativo, la máquina posee una carcasa compuestas por un "cangrejo" (figura 1) y una "concha marina" (figura 2).
+Por el lado conceptual y figurativo, la máquina posee una carcasa compuestas por un "cangrejo" y una "concha marina".
 
-La primera pieza se compone de una imitación de un “cangrejo”, una réplica de una criatura asociada con la costa por su presencia en dicho sector a lo largo de todo Chile. La segunda parte se compone de una “concha de mar”, un objeto común de encontrar en las playas y que posee el mito de permitir a las personas escuchar sonidos semejantes al oleaje del mar y viento de las costas (efecto conocido como [Resonancia de las conchas de Gastrópodos](https://es.wikipedia.org/wiki/Resonancia_de_las_conchas_de_Gastr%C3%B3podos)).
+La primera pieza se compone de una imitación de un “cangrejo”, una réplica de una criatura asociada con la costa por su presencia en dicho sector a lo largo de todo Chile. La segunda parte se compone de una “concha de mar”, un objeto común de encontrar en las playas y que posee el mito de permitir escuchar sonidos semejantes al oleaje del mar y viento de las costas (efecto conocido como [Resonancia de las conchas de Gastrópodos](https://es.wikipedia.org/wiki/Resonancia_de_las_conchas_de_Gastr%C3%B3podos)).
 
 ***
 
 ## Desarrollo
 
-Para poder ser más estratégicos en cuanto al aprendizaje y desarrollo es que cada integrante fue aprendiendo sobre cómo hacer funcionar un sensor o actuador. Ello requirió de procesos personales de prueba y error que fueron registrados de forma independiente en las bitácoras desde la clase “07a” hasta la fecha de entrega.
+Para poder ser más estratégicos en cuanto al aprendizaje y desarrollo es que cada integrante fue aprendiendo sobre cómo hacer funcionar un sensor o actuador. Ello requirió de procesos personales de prueba y error que fueron registrados de forma independiente en las bitácoras desde la clase “07a” hasta la fecha de entrega. Para ello es que decidimos ir separando y resumiendo los descubrimientos individuales para integrarlos al final.
 
 ### 1) sensor ultrasónico HC-SR04
 
@@ -87,8 +82,6 @@ A partir de ello es que los estudios iniciales se centraron en replicar el mecan
 
 Ante ello se pudo concluir que es necesario un servomotor para poder hacer que el ojo abra y cierre, un segundo para poder mover el ojo en vertical y un tercero para el horizontal. Puesto que los servomotores requieren de una calibración para que las piezas funcionen es que comencé a revisar el código tipo INO que incluye el proyecto.
 Al no tener experiencia previa manejando este tipo de actuadores es que se hizo una investigación en profundidad sobre como se trabaja con dicha pieza clave, además de aprender sobre qué librerías son necesarias además de las conexiones con el Arduino.
-
-Dentro de toda la información recopilada sobre los servomotores es que son actuadores de tipo motor que permiten controlar el posicionamiento físico de manera. Suelen poseer una “unidad de control” que cuenta con un circuito integrado (controlador), un motor de corriente continua, engranajes (plásticos o metálicos), un potenciómetro además de incluir piezas que ayudan a transmitir el movimiento (servo horns o cuernos). El controlador se encarga de comparar y ajustar la posición del motor a la indicada, mientras que el potenciómetro funciona como un sensor de retroalimentación que informa la posición actual. Para poder controlar este tipo de motor es necesario el enviarle una serie de pulsos eléctricos (descargas de alto voltaje de pulso rápido y corta duración), cuya longitud determina la posición del servomotor. Se pueden conectar a pines análogos o digitales, pero en esta ocasión sólo se hará uso de los pines digitales por cuestiones de tiempo.
 
 ![imagen](./imagenes/servomotor-partes.png)
 
